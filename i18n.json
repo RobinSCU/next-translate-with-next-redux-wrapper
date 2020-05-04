@@ -1,0 +1,11 @@
+{
+	"allLanguages": ["de", "en"],
+	"defaultLanguage": "en",
+	"currentPagesDir": "srcPages",
+	"finalPagesDir": "pages",
+	"localesPath": "locales",
+	"pages": {
+		"*": ["common"]
+	},
+	"redirectToDefaultLang": true
+}
